@@ -1,16 +1,16 @@
-## Hi there 👋
+###Boas vindas ao perfil❤
 
-<!--
-**jordanzinn013/jordanzinn013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estou estudando na [alura]https
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+@jordanzinn__013
+
+
+![](https://media1.tenor.com/m/_WCEyi7XOxgAAAAd/performing-a-harley-stunt-viralhog.gif)
+
+
+
+
