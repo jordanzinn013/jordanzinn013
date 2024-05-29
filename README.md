@@ -1,6 +1,8 @@
 ###Boas vindas ao perfil❤
 
-- estou estudando na [alura]https
+- meu nome é jordan😘
+
+- estou estudando na [alura]
 
 - Estou me desenvolvendo na linguagem JavaScript
 
